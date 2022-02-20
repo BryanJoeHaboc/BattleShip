@@ -1,10 +1,12 @@
 {
+  "type": "module",
   "name": "battleship",
   "version": "1.0.0",
   "description": "",
   "main": "shipFactory.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "watch": "jest --watchAll"
   },
   "repository": {
     "type": "git",
